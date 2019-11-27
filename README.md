@@ -1,0 +1,2 @@
+# T_e_s
+QT VS2105 OPENCV
